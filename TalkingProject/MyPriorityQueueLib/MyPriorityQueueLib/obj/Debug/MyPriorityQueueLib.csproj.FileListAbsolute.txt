@@ -1,0 +1,8 @@
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyPriorityQueueLib\MyPriorityQueueLib\bin\Debug\MyPriorityQueueLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyPriorityQueueLib\MyPriorityQueueLib\bin\Debug\MyPriorityQueueLib.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyPriorityQueueLib\MyPriorityQueueLib\obj\Debug\MyPriorityQueueLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyPriorityQueueLib\MyPriorityQueueLib\obj\Debug\MyPriorityQueueLib.pdb
+C:\Users\User\Desktop\TalkingProject\MyPriorityQueueLib\MyPriorityQueueLib\bin\Debug\MyPriorityQueueLib.dll
+C:\Users\User\Desktop\TalkingProject\MyPriorityQueueLib\MyPriorityQueueLib\bin\Debug\MyPriorityQueueLib.pdb
+C:\Users\User\Desktop\TalkingProject\MyPriorityQueueLib\MyPriorityQueueLib\obj\Debug\MyPriorityQueueLib.dll
+C:\Users\User\Desktop\TalkingProject\MyPriorityQueueLib\MyPriorityQueueLib\obj\Debug\MyPriorityQueueLib.pdb

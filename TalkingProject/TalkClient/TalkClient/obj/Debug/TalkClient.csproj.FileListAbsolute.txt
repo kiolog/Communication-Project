@@ -1,0 +1,76 @@
+c:\users\user\documents\visual studio 2015\Projects\TalkClient\TalkClient\bin\Debug\TalkClient.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\TalkClient\TalkClient\bin\Debug\TalkClient.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\TalkClient\TalkClient\bin\Debug\TalkClient.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TalkClient\TalkClient\obj\Debug\TalkClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\TalkClient\TalkClient\obj\Debug\TalkClient.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TalkClient\TalkClient\obj\Debug\TalkClient.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\TalkClient\TalkClient\obj\Debug\TalkClient.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\TalkClient\TalkClient\obj\Debug\TalkClient.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TalkClient\TalkClient\obj\Debug\TalkClient.LoginForm.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TalkClient\TalkClient\obj\Debug\TalkClient.TalkingForm.resources
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\bin\Debug\TalkClient.exe.config
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.exe
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.pdb
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\bin\Debug\TalkClient.exe
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\bin\Debug\TalkClient.pdb
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.LoginForm.resources
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.MenuWindow.resources
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.Properties.Resources.resources
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.TalkingForm.resources
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.csproj.GenerateResource.Cache
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\PersonInfoDLL.PersonInfoClass.resources
+C:\Users\User\Desktop\TalkClient\TalkClient\bin\Debug\TalkClient.exe.config
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.exe
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.pdb
+C:\Users\User\Desktop\TalkClient\TalkClient\bin\Debug\TalkClient.exe
+C:\Users\User\Desktop\TalkClient\TalkClient\bin\Debug\TalkClient.pdb
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.LoginForm.resources
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.MenuWindow.resources
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\PersonInfoDLL.PersonInfoClass.resources
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.Properties.Resources.resources
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.TalkingForm.resources
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.MessageBox.resources
+C:\Users\User\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.TestForm.resources
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\bin\Debug\TestUserControl.dll
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\bin\Debug\TestUserControl.pdb
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.MessageBox.resources
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\obj\Debug\TalkClient.TestForm.resources
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\bin\Debug\FileMessageClass.dll
+C:\Users\yulin.sung\Desktop\TalkClient\TalkClient\bin\Debug\FileMessageClass.pdb
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\bin\Debug\TalkClient.exe.config
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.exe
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.pdb
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\bin\Debug\TalkClient.exe
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\bin\Debug\TalkClient.pdb
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.LoginForm.resources
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.MenuWindow.resources
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\PersonInfoDLL.PersonInfoClass.resources
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.Properties.Resources.resources
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.TalkingForm.resources
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.TestForm.resources
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.csproj.GenerateResource.Cache
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\bin\Debug\TalkClient.exe.config
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\bin\Debug\TalkClient.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\bin\Debug\TalkClient.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.LoginForm.resources
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.MenuWindow.resources
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\PersonInfoDLL.PersonInfoClass.resources
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.Properties.Resources.resources
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.TalkingForm.resources
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.TestForm.resources
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.csproj.GenerateResource.Cache
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\FileMessage.FileMessageBox.resources
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\FileMessage.FileMessageBox.resources
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\FileMessageClass.FileLoadingBox.resources
+C:\Users\User\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.ProgressContainer.resources
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\FileMessageClass.FileLoadingBox.resources
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\obj\Debug\TalkClient.ProgressContainer.resources
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\bin\Debug\MyPriorityQueueLib.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkClient\TalkClient\bin\Debug\MyPriorityQueueLib.pdb

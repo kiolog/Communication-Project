@@ -1,0 +1,29 @@
+c:\users\user\documents\visual studio 2015\Projects\TalkingClientCmd\TalkingClientCmd\bin\Debug\TalkingClientCmd.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TalkingClientCmd\TalkingClientCmd\obj\Debug\TalkingClientCmd.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TalkingClientCmd\TalkingClientCmd\bin\Debug\TalkingClientCmd.exe
+c:\users\user\documents\visual studio 2015\Projects\TalkingClientCmd\TalkingClientCmd\bin\Debug\TalkingClientCmd.pdb
+c:\users\user\documents\visual studio 2015\Projects\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyPriorityQueueLib.dll
+c:\users\user\documents\visual studio 2015\Projects\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyPriorityQueueLib.pdb
+c:\users\user\documents\visual studio 2015\Projects\TalkingClientCmd\TalkingClientCmd\obj\Debug\TalkingClientCmd.exe
+c:\users\user\documents\visual studio 2015\Projects\TalkingClientCmd\TalkingClientCmd\obj\Debug\TalkingClientCmd.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\TalkingClientCmd.exe.config
+C:\Users\User\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\obj\Debug\TalkingClientCmd.exe
+C:\Users\User\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\obj\Debug\TalkingClientCmd.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\TalkingClientCmd.exe
+C:\Users\User\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\TalkingClientCmd.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyPriorityQueueLib.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\obj\Debug\TalkingClientCmd.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\TalkingClientCmd.exe.config
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\obj\Debug\TalkingClientCmd.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\obj\Debug\TalkingClientCmd.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\TalkingClientCmd.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\TalkingClientCmd.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyConverterLib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyPriorityQueueLib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyTalkingLib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyThreadPool.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\obj\Debug\TalkingClientCmd.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyConverterLib.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyTalkingLib.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyThreadPool.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientCmd\TalkingClientCmd\bin\Debug\MyTalkingLib.dll

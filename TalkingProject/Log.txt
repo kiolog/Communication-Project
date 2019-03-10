@@ -1,0 +1,15 @@
+create table message(
+   ID INT NOT NULL,
+   IDFROM int NOT NULL,
+   IDTO bigint NOT NULL,
+   UnixTime bigint not null,
+   strMessage varchar(200) not null,
+   MessageType int not null,
+   PRIMARY KEY ( ID  )
+);
+
+create table GroupMember(
+   GroupID INT NOT NULL,
+   Members varchar(200) not null,
+   PRIMARY KEY ( GroupID )
+);

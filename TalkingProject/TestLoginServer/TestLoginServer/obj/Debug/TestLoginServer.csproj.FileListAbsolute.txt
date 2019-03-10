@@ -1,0 +1,22 @@
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TestLoginServer\TestLoginServer\bin\Debug\TestLoginServer.exe.config
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TestLoginServer\TestLoginServer\bin\Debug\TestLoginServer.exe
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TestLoginServer\TestLoginServer\bin\Debug\TestLoginServer.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TestLoginServer\TestLoginServer\obj\Debug\TestLoginServer.exe
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TestLoginServer\TestLoginServer\obj\Debug\TestLoginServer.pdb
+C:\Users\yulin.sung\Documents\Visual Studio 2015\Projects\TestLoginServer\TestLoginServer\obj\Debug\TestLoginServer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TalkingProject\TestLoginServer\TestLoginServer\bin\Debug\TestLoginServer.exe.config
+C:\Users\User\Desktop\TalkingProject\TestLoginServer\TestLoginServer\obj\Debug\TestLoginServer.exe
+C:\Users\User\Desktop\TalkingProject\TestLoginServer\TestLoginServer\obj\Debug\TestLoginServer.pdb
+C:\Users\User\Desktop\TalkingProject\TestLoginServer\TestLoginServer\bin\Debug\TestLoginServer.exe
+C:\Users\User\Desktop\TalkingProject\TestLoginServer\TestLoginServer\bin\Debug\TestLoginServer.pdb
+C:\Users\User\Desktop\TalkingProject\TestLoginServer\TestLoginServer\obj\Debug\TestLoginServer.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkingProject\TestLoginServer\TestLoginServer\bin\Debug\TestLoginServer.exe.config
+C:\Users\yulin.sung\Desktop\TalkingProject\TestLoginServer\TestLoginServer\obj\Debug\TestLoginServer.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\TestLoginServer\TestLoginServer\obj\Debug\TestLoginServer.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TestLoginServer\TestLoginServer\bin\Debug\TestLoginServer.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\TestLoginServer\TestLoginServer\bin\Debug\TestLoginServer.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TestLoginServer\TestLoginServer\bin\Debug\MyTalkingLib.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\TestLoginServer\TestLoginServer\bin\Debug\MyPriorityQueueLib.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\TestLoginServer\TestLoginServer\bin\Debug\MyTalkingLib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TestLoginServer\TestLoginServer\bin\Debug\MyPriorityQueueLib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TestLoginServer\TestLoginServer\obj\Debug\TestLoginServer.csprojResolveAssemblyReference.cache

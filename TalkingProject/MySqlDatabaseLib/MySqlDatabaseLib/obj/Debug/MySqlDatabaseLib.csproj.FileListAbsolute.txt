@@ -1,0 +1,14 @@
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MySqlDatabaseLib\MySqlDatabaseLib\bin\Debug\MySqlDatabaseLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MySqlDatabaseLib\MySqlDatabaseLib\bin\Debug\MySqlDatabaseLib.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MySqlDatabaseLib\MySqlDatabaseLib\bin\Debug\MySql.Data.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MySqlDatabaseLib\MySqlDatabaseLib\bin\Debug\MySql.Data.xml
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MySqlDatabaseLib\MySqlDatabaseLib\obj\Debug\MySqlDatabaseLib.csprojResolveAssemblyReference.cache
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MySqlDatabaseLib\MySqlDatabaseLib\obj\Debug\MySqlDatabaseLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MySqlDatabaseLib\MySqlDatabaseLib\obj\Debug\MySqlDatabaseLib.pdb
+C:\Users\User\Desktop\TalkingProject\MySqlDatabaseLib\MySqlDatabaseLib\bin\Debug\MySqlDatabaseLib.dll
+C:\Users\User\Desktop\TalkingProject\MySqlDatabaseLib\MySqlDatabaseLib\bin\Debug\MySqlDatabaseLib.pdb
+C:\Users\User\Desktop\TalkingProject\MySqlDatabaseLib\MySqlDatabaseLib\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\TalkingProject\MySqlDatabaseLib\MySqlDatabaseLib\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\TalkingProject\MySqlDatabaseLib\MySqlDatabaseLib\obj\Debug\MySqlDatabaseLib.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TalkingProject\MySqlDatabaseLib\MySqlDatabaseLib\obj\Debug\MySqlDatabaseLib.dll
+C:\Users\User\Desktop\TalkingProject\MySqlDatabaseLib\MySqlDatabaseLib\obj\Debug\MySqlDatabaseLib.pdb

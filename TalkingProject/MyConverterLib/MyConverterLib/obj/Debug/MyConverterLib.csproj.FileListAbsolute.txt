@@ -1,0 +1,9 @@
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyConverterLib\MyConverterLib\bin\Debug\MyConverterLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyConverterLib\MyConverterLib\bin\Debug\MyConverterLib.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyConverterLib\MyConverterLib\obj\Debug\MyConverterLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyConverterLib\MyConverterLib\obj\Debug\MyConverterLib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\MyConverterLib\MyConverterLib\bin\Debug\MyConverterLib.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\MyConverterLib\MyConverterLib\bin\Debug\MyConverterLib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\MyConverterLib\MyConverterLib\obj\Debug\MyConverterLib.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkingProject\MyConverterLib\MyConverterLib\obj\Debug\MyConverterLib.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\MyConverterLib\MyConverterLib\obj\Debug\MyConverterLib.pdb

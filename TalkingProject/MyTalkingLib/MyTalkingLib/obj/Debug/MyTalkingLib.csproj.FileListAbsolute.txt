@@ -1,0 +1,23 @@
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyTalkingLib\MyTalkingLib\bin\Debug\MyTalkingLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyTalkingLib\MyTalkingLib\bin\Debug\MyTalkingLib.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyTalkingLib\MyTalkingLib\bin\Debug\MyConverterLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyTalkingLib\MyTalkingLib\bin\Debug\MyPriorityQueueLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyTalkingLib\MyTalkingLib\bin\Debug\MyConverterLib.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyTalkingLib\MyTalkingLib\bin\Debug\MyPriorityQueueLib.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyTalkingLib\MyTalkingLib\obj\Debug\MyTalkingLib.csprojResolveAssemblyReference.cache
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyTalkingLib\MyTalkingLib\obj\Debug\MyTalkingLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\MyTalkingLib\MyTalkingLib\obj\Debug\MyTalkingLib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\bin\Debug\MyTalkingLib.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\bin\Debug\MyTalkingLib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\obj\Debug\MyTalkingLib.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\obj\Debug\MyTalkingLib.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\obj\Debug\MyTalkingLib.pdb
+C:\Users\User\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\bin\Debug\MyTalkingLib.dll
+C:\Users\User\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\bin\Debug\MyTalkingLib.pdb
+C:\Users\User\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\obj\Debug\MyTalkingLib.dll
+C:\Users\User\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\obj\Debug\MyTalkingLib.pdb
+C:\Users\User\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\obj\Debug\MyTalkingLib.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\bin\Debug\MySql.Data.xml
+C:\Users\yulin.sung\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\bin\Debug\MySql.Data.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\MyTalkingLib\MyTalkingLib\bin\Debug\MySql.Data.xml

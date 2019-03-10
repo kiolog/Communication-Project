@@ -1,0 +1,53 @@
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe.config
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.exe
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.pdb
+C:\Users\yulin.sung\Desktop\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe.config
+C:\Users\yulin.sung\Desktop\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.exe
+C:\Users\yulin.sung\Desktop\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.pdb
+C:\Users\yulin.sung\Desktop\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe
+C:\Users\yulin.sung\Desktop\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.pdb
+C:\Users\yulin.sung\Desktop\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkingServerCmd\TalkingServerCmd\bin\Debug\MySql.Data.dll
+C:\Users\yulin.sung\Desktop\TalkingServerCmd\TalkingServerCmd\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe.config
+C:\Users\User\Desktop\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.exe
+C:\Users\User\Desktop\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.pdb
+C:\Users\User\Desktop\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe
+C:\Users\User\Desktop\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.pdb
+C:\Users\User\Desktop\TalkingServerCmd\TalkingServerCmd\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe.config
+C:\Users\User\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.exe
+C:\Users\User\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe
+C:\Users\User\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe.config
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MySql.Data.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MySql.Data.xml
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MyTalkingLib.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MyTalkingLib.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MySql.Data.xml
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MyTalkingLib.dll
+C:\Users\User\Desktop\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MyTalkingLib.dll
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.csprojResolveAssemblyReference.cache
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.exe.config
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.csproj.CoreCompileInputs.cache
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.exe
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\obj\Debug\TalkingServerCmd.pdb
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe.config
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.exe
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\TalkingServerCmd.pdb
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MySql.Data.dll
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MyTalkingLib.dll
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\Google.Protobuf.dll
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MySql.Data.xml
+D:\Project\Communication-Project\TalkingProject\TalkingServerCmd\TalkingServerCmd\bin\Debug\MyTalkingLib.pdb

@@ -1,0 +1,17 @@
+c:\users\yulin.sung\documents\visual studio 2015\Projects\ReadFileTest\ReadFileTest\bin\Debug\ReadFileTest.exe.config
+c:\users\yulin.sung\documents\visual studio 2015\Projects\ReadFileTest\ReadFileTest\bin\Debug\ReadFileTest.exe
+c:\users\yulin.sung\documents\visual studio 2015\Projects\ReadFileTest\ReadFileTest\bin\Debug\ReadFileTest.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\ReadFileTest\ReadFileTest\obj\Debug\ReadFileTest.exe
+c:\users\yulin.sung\documents\visual studio 2015\Projects\ReadFileTest\ReadFileTest\obj\Debug\ReadFileTest.pdb
+C:\Users\User\Desktop\TalkingProject\ReadFileTest\ReadFileTest\bin\Debug\ReadFileTest.exe.config
+C:\Users\User\Desktop\TalkingProject\ReadFileTest\ReadFileTest\obj\Debug\ReadFileTest.exe
+C:\Users\User\Desktop\TalkingProject\ReadFileTest\ReadFileTest\obj\Debug\ReadFileTest.pdb
+C:\Users\User\Desktop\TalkingProject\ReadFileTest\ReadFileTest\bin\Debug\ReadFileTest.exe
+C:\Users\User\Desktop\TalkingProject\ReadFileTest\ReadFileTest\bin\Debug\ReadFileTest.pdb
+C:\Users\User\Desktop\TalkingProject\ReadFileTest\ReadFileTest\obj\Debug\ReadFileTest.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkingProject\ReadFileTest\ReadFileTest\bin\Debug\ReadFileTest.exe.config
+C:\Users\yulin.sung\Desktop\TalkingProject\ReadFileTest\ReadFileTest\obj\Debug\ReadFileTest.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\ReadFileTest\ReadFileTest\obj\Debug\ReadFileTest.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\ReadFileTest\ReadFileTest\bin\Debug\ReadFileTest.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\ReadFileTest\ReadFileTest\bin\Debug\ReadFileTest.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\ReadFileTest\ReadFileTest\obj\Debug\ReadFileTest.csprojResolveAssemblyReference.cache

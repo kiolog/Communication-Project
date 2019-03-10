@@ -1,0 +1,61 @@
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.exe.config
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.exe
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\MyConverterLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\MyPriorityQueueLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingLib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingUILib.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\MyThreadPool.dll
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\MyConverterLib.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\MyPriorityQueueLib.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingLib.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingUILib.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\bin\Debug\MyThreadPool.pdb
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.csprojResolveAssemblyReference.cache
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.Properties.Resources.resources
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.csproj.GenerateResource.Cache
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.exe
+c:\users\yulin.sung\documents\visual studio 2015\Projects\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.exe.config
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.exe
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingLib.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingUILib.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingLib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingUILib.pdb
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.csprojResolveAssemblyReference.cache
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.Properties.Resources.resources
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.exe.config
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.exe
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.exe
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingLib.dll
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingUILib.dll
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingLib.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingUILib.pdb
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.Properties.Resources.resources
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MySql.Data.xml
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MySql.Data.dll
+C:\Users\yulin.sung\Desktop\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MySql.Data.xml
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.exe.config
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.exe
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\TalkingClientMain.pdb
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingLib.dll
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingUILib.dll
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MySql.Data.dll
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingLib.pdb
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MyTalkingUILib.pdb
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\bin\Debug\MySql.Data.xml
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.csprojResolveAssemblyReference.cache
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.Properties.Resources.resources
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.csproj.GenerateResource.Cache
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.csproj.CoreCompileInputs.cache
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.exe
+D:\Project\Communication-Project\TalkingProject\TalkingClientMain\TalkingClientMain\obj\Debug\TalkingClientMain.pdb
