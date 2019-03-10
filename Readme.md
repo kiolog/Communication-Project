@@ -5,32 +5,32 @@ Communication Project
 
 1. Login, Register
 
-<img src="img/Login.png" width="500">
+<img src="img/Login.png" width="300">
 
 
 2. Send Message
 
-<img src="img/Message.png" width="500">
+<img src="img/Message.png" width="300">
 
 3. Upload File
 
-<img src="img/Upload1.png" width="500">
-<img src="img/Upload2.png" width="500">
+<img src="img/Upload1.png" width="300">
+<img src="img/Upload2.png" width="300">
 
 4. Download File
 
-<img src="img/Download.png" width="500">
+<img src="img/Download.png" width="300">
 
 ### 3.架構:
 
 Login Server
-<img src="img/Arch_LoginServer.png" width="500">
+<img src="img/Arch_LoginServer.png" width="300">
 
 Message Server
-<img src="img/Arch_MessageServer.png" width="500">
+<img src="img/Arch_MessageServer.png" width="300">
 
 Client
-<img src="img/Arch_Client.png" width="500">
+<img src="img/Arch_Client.png" width="300">
 
 ## ThreadPool
 
@@ -57,8 +57,8 @@ Parameters(List of Parameter)
 Serialize的部分是用C#的BitConverter
 Deserialzie是用我自己寫的MyConverter
 
-##MVC
+## MVC
 
-MainController : 有兩個EventChecker分別把對應的View or Data Event丟到ThreadPool執行
-ViewModel : Controller UI, List of Event function about controller UI, Get the data info from datamodel
-DataModel : Commnicate with database, Controll data, Communicate with Server(Newwork Connection)
+* MainController : 有兩個EventChecker分別把對應的View or Data Event丟到ThreadPool執行
+* ViewModel : Controller UI, List of Event function about controller UI, Get the data info from datamodel
+* DataModel : Commnicate with database, Controll data, Communicate with Server(Newwork Connection)
